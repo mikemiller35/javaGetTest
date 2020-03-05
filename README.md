@@ -7,6 +7,9 @@ Get the source in there or the class.  Compile/run whatever you gotta dew.
 
 It'll break.  That's what you want...I guess...For testing tho!
 
+A fix might be here...https://stackoverflow.com/a/20115223
+
+
 ```
 root@57066bffe9f0:/javaGetTest/src# java -cp . testGet
  Send Https GET
