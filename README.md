@@ -30,7 +30,7 @@ root@57066bffe9f0:/javaGetTest/src#
 Oh, here it is with Java 8 
 
 ```
-Mikes-MBP javaGetTest (master)]$ /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -cp "/Users/micahelmiller/Library/Applicat
+[Mikes-MBP javaGetTest (master)]$ /Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/bin/java -Dfile.encoding=UTF-8 -cp "/Users/micahelmiller/Library/Applicat
 ion Support/Code/User/workspaceStorage/a17cd8a6d1d330f3379d7675d47d734a/redhat.java/jdt_ws/javaGetTest_f47452d8/bin" testGet
  Send Https GET
 
